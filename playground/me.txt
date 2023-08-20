@@ -1,0 +1,5 @@
+{{#user}}
+Name: Tanmoy
+Skills: Python, Machine Learning, PHP, MySQL
+Email: deytanmoy2002@gmail.com
+{{/user}}
